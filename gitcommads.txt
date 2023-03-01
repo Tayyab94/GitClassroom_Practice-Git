@@ -1,1 +1,11 @@
 To Delete the file user the Command => rm -ef (fileName)
+
+=> To create new Branch git branch feature, this will create a just new branch
+=> to move into the new or subbranch => git checout branch_namne
+
+=> to merger subbrand into main/master branch first goto the that branch in which you 
+ want to merge. like i  want to merger feature into master 
+ => first command , git checkout master
+     second command. git merge feature
+
+
