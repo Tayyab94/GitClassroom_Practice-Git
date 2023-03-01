@@ -8,4 +8,15 @@ To Delete the file user the Command => rm -ef (fileName)
  => first command , git checkout master
      second command. git merge feature
 
+if you are working in some opensource project and although you have created new subbranch its goo.
+but now you want match your main branch with the owner main branch
+
+
+goto your main branch = git chechout master
+git fetch --all --prune
+then = git reset --hard upstream/main or master
+
+
+git push -u origin main
+
 
