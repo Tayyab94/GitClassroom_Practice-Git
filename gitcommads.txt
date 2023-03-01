@@ -18,5 +18,9 @@ then = git reset --hard upstream/main or master
 
 
 git push -u origin main
+           Alternate of these command is just 1 Command
+
+	   git pull upstream main/ master
+
 
 
