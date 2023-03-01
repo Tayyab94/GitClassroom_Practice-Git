@@ -1,0 +1,1 @@
+To Delete the file user the Command => rm -ef (fileName)
